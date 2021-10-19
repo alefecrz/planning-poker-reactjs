@@ -35,6 +35,7 @@
         "react/react-in-jsx-scope": "off",
         "import/no-named-as-default": "off",
         "import/no-named-as-default-member": "off",
+        "jsx-a11y/label-has-associated-control": "off",
         "import/extensions": [
             "error",
             "ignorePackages",
